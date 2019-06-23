@@ -2,7 +2,7 @@ import pygame, sys
 from os import path
 vector = pygame.math.Vector2
 
-#Game class with all attributes
+# Game class with all attributes
 class Game():
      def __init__(self):
           pygame.init()
